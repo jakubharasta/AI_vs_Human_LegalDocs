@@ -1,4 +1,4 @@
-### Lawyers' Preferences of Documents Perceived as Authored by an LLM vs a Human
+# Lawyers' Preferences of Documents Perceived as Authored by an LLM vs a Human
 
 This repository contains the data (documents, survey) created for the following research paper:
 
@@ -24,3 +24,7 @@ We kindly ask you to cite the following paper in your work using the data (docum
 
 Jakub Harasta, Tereza Novotna, and Jaromir Savelka. It Cannot Be Right If It Was Written by AI: On Lawyers' Preferences of Documents Perceived as Authored by an LLM vs a Human. _ArXiV_, 2024, available at https://www.arxiv.org/abs/2407.06798
 
+## Acknowledgement
+
+Work of Jakub Harasta and Tereza Novotná was supported by the Grant Agency of Masaryk University (GAMU) project “Forensic Support for Building Trust in Smart Software
+Ecosystems” (no. MUNI/G/1142/2022).
