@@ -1,1 +1,62 @@
+# Usability of AI/LLM for Automatic Document Generation
 
+## Evaluation Instructions
+You will evaluate the documents concerning (A) Language Quality and (B) Correctness.
+
+### (A) Language Quality of the Document
+This section is used to describe the language level of the document. Language Quality refers to linguistic errors and inaccuracies, particularly of the following nature:
+- Occurrence of spelling errors in the document. These include problems in subject-predicate agreement, typos, or incorrectly chosen word forms.
+- Stylistic correctness. This is particularly the occurrence of wording that is difficult to understand and sentences that are too long.
+- Professional vocabulary. This includes whether the text is written in professional legal language and does not contain colloquial expressions.
+
+### (B) Correctness of the Document
+This section assesses whether the document can be considered accurate as a result of a lawyer’s work. The correctness of the document refers to the following parameters:
+- Compliance with the legal requirements. In particular, whether the document complies with the requirements imposed on it by law (see Section 2053 of Act No. 89/2012 Sb., the Civil Code), and can therefore be expected to have the corresponding legal consequences.
+- Substantive coherence. In particular, whether the document is factually consistent, not internally contradictory, and does not cast doubt on the nature of the legal consequences it seeks to produce.
+- Formal coherence. This mainly testifies whether the document consistently identifies the parties and the legal framework.
+
+In the last question, you will be asked to evaluate the possibility of automatically creating this type of document (acknowledgement of debt) in the future.
+
+## Evaluation Questions
+
+**Question 1:** Score the language quality of the AI-generated document (1 being the worst, 5 being the best).
+
+1. (The document contains many grammatical and stylistic errors. It is practically incomprehensible.)
+2. (The document contains many grammatical and stylistic errors. However, it is comprehensible.)
+3. (The document contains several grammatical and stylistic errors.)
+4. (The document contains a small number of grammatical or stylistic errors. It could be practically used.)
+5. (The document contains no grammatical or stylistic errors.)
+
+**Question 2:** Briefly explain the score given in Question 1 (100 words or less).
+
+**Question 3:** Score the correctness of the AI-generated document (1 being the worst, 5 being the best).
+
+1. (The document contains many inaccuracies. It is inconsistent and incapable of producing the expected legal consequences.)
+2. (The document contains many inaccuracies. It is inconsistent. Expected legal consequences can be deduced from it.)
+3. (The document contains several inaccuracies and inconsistencies. Expected legal consequences can be deduced from it.)
+4. (The document contains a small number of inaccuracies. Essentially, it is consistent. The expected legal consequences are clear.)
+5. (The document contains no inaccuracies. It is entirely consistent. The expected legal consequences are unquestionable.)
+
+**Question 4:** Briefly explain the score given in Question 3 (100 words or less).
+
+**Question 5:** Score the language quality of the Human-crafted document (1 being the worst, 5 being the best).
+
+1. (The document contains many grammatical and stylistic errors. It is practically incomprehensible.)
+2. (The document contains many grammatical and stylistic errors. However, it is comprehensible.)
+3. (The document contains several grammatical and stylistic errors.)
+4. (The document contains a small number of grammatical or stylistic errors. It could probably be used.)
+5. (The document contains no grammatical or stylistic errors.)
+
+**Question 6:** Briefly explain the score given in Question 5 (100 words or less).
+
+**Question 7:** Score the correctness of the Human-crafted document (1 being the worst, 5 being the best).
+
+1. (The document contains many inaccuracies. It is inconsistent and incapable of producing the expected legal consequences.)
+2. (The document contains many inaccuracies. It is inconsistent. Expected legal consequences can be deduced from it.)
+3. (The document contains several inaccuracies and inconsistencies. Expected legal consequences can be deduced from it.)
+4. (The document contains a small number of inaccuracies. Essentially, it is consistent. The expected legal consequences are clear.)
+5. (The document contains no inaccuracies. It is entirely consistent. The expected legal consequences are unquestionable.)
+
+**Question 8:** Briefly explain the score given in Question 7 (100 words or less).
+
+**Question 9:** Having seen Human-crafted debt acknowledgement and AI-generated debt acknowledgement, is it possible that the creation of these types of documents will be fully automatic in the future? Is it possible for this type of document to achieve the same quality as when processed by humans?
