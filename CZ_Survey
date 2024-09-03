@@ -1,1 +1,62 @@
+# Využitelnost AI/LLM k automatickému generování dokumentů
 
+## Instrukce
+Dokumenty budete hodnotit s přihlédnutím k (A) jazykové úrovni a (B) správnosti dokumentu.
+
+### (A) Jazyková úroveň dokumentu
+Tato rubrika slouží k popisu jazykové úrovně dokumentu. Jazyková úroveň se vztahuje k jazykovým chybám a nepřesnostem, zejména následujícího charakteru:
+- Výskyt pravopisných chyb v dokumentu. Jde zejména o problémy ve shodě přísudku s podnětem, překlepy nebo nesprávně zvolené tvary slov.
+- Stylistická správnost. Jde zejména o výskyt obtížně srozumitelných formulací a příliš dlouhých vět.
+- Odbornost vyjadřování. Jde zejména o to, zda je text psán odborným právním jazykem a neobsahuje hovorové výrazy.
+
+### (B) Správnost dokumentu
+Tato rubrika slouží ke zhodnocení, nakolik je dokument možné považovat za korektní výsledek činnosti právníka. Správnost dokumentu se vztahuje k jeho úrovni v následujících parametrech:
+- Naplnění požadavků stanovených právními předpisy. Jde zejména o to, zda dokument odpovídá požadavkům na něj kladených právem (viz § 2053 zákona č. 89/2012 Sb., občanský zákoník) a lze tedy očekávat, že bude mít odpovídající právní následky.
+- Věcná koherence. Jde zejména o to, zda je dokument po věcné stránce konzistentní, vnitřně si neprotiřečí a nevyvolává pochybnosti o povaze právních následků, které usiluje vyvolat.
+- Formální koherence. Jde zejména o to, zda dokument konzistentně označuje strany i právní předpisy.
+
+V poslední otázce budete požádáni o zhodnocení budoucí možnosti vytvářet tento typ dokumentů (tedy uznání dluhu) automatizovaně.
+
+## Otázky
+
+**Otázka 1:** Ohodnoťte automaticky generovaný dokument z hlediska jeho jazykové úrovně (1 je nejhorší, 5 je nejlepší).
+
+1. (Dokument obsahuje mnoho gramatických a stylistických chyb. Je prakticky nesrozumitelný.)
+2. (Dokument obsahuje mnoho gramatických a stylistických chyb. V zásadě je ale srozumitelný.)
+3. (Dokument obsahuje několik gramatických a stylistických chyb.)
+4. (Dokument obsahuje malé množství gramatických nebo stylistických chyb. Patrně by byl v praxi použitelný.)
+5. (Dokument neobsahuje žádné gramatické nebo stylistické chyby.)
+
+**Otázka 2:** Stručně odůvodněte své hodnocení v Otázce 1 (max. 100 slov).
+
+**Otázka 3:** Ohodnoťte automaticky generovaný dokument z hlediska správnosti dokumentu (1 je nejhorší, 5 je nejlepší).
+
+1. (Dokument obsahuje mnoho nepřesností. Je nekonzistentní a není způsobilý vyvolat očekávané právní následky.)
+2. (Dokument obsahuje mnoho nepřesností. Je nekonzistentní. Očekávané právní následky z něj lze vydedukovat.)
+3. (Dokument obsahuje několik nepřesností a nekonzistentností. Očekávané právní následky z něj lze vydedukovat.)
+4. (Dokument obsahuje malé množství nepřesností. Je v zásadě konzistentní. Očekávané právní následky jsou zřejmé.)
+5. (Dokument neobsahuje nepřesnosti. Je zcela konzistentní. Očekávané právní následky jsou nezpochybnitelné.)
+
+**Otázka 4:** Stručně odůvodněte své hodnocení v Otázce 3 (max. 100 slov).
+
+**Otázka 5:** Ohodnoťte dokument vytvořený člověkem z hlediska jeho jazykové úrovně (1 je nejhorší, 5 je nejlepší).
+
+1. (Dokument obsahuje mnoho gramatických a stylistických chyb. Je prakticky nesrozumitelný.)
+2. (Dokument obsahuje mnoho gramatických a stylistických chyb. V zásadě je ale srozumitelný.)
+3. (Dokument obsahuje několik gramatických a stylistických chyb.)
+4. (Dokument obsahuje malé množství gramatických nebo stylistických chyb. Patrně by byl v praxi použitelný.)
+5. (Dokument neobsahuje žádné gramatické nebo stylistické chyby.)
+
+**Otázka 6:** Stručně odůvodněte své hodnocení v Otázce 5 (max. 100 slov).
+
+**Otázka 7:** Ohodnoťte dokument vytvořený člověkem z hlediska správnosti dokumentu (1 je nejhorší, 5 je nejlepší).
+
+1. (Dokument obsahuje mnoho nepřesností. Je nekonzistentní a není způsobilý vyvolat očekávané právní následky.)
+2. (Dokument obsahuje mnoho nepřesností. Je nekonzistentní. Očekávané právní následky z něj lze vydedukovat.)
+3. (Dokument obsahuje několik nepřesností a nekonzistentností. Očekávané právní následky z něj lze vydedukovat.)
+4. (Dokument obsahuje malé množství nepřesností. Je v zásadě konzistentní. Očekávané právní následky jsou zřejmé.)
+5. (Dokument neobsahuje nepřesnosti. Je zcela konzistentní. Očekávané právní následky jsou nezpochybnitelné.)
+
+**Otázka 8:** Stručně odůvodněte své hodnocení v Otázce 7 (max. 100 slov).
+
+**Otázka 9:** Po tom, co jste viděli uznání dluhu vytvořené člověkem a automaticky generované uznání dluhu, považujete za možné, že tvorba tohoto typu dokumentů bude v budoucnu plně automatická?
