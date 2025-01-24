@@ -2,7 +2,9 @@
 
 This repository contains the data (documents, survey) created for the following research paper:
 
-Jakub Harasta, Tereza Novotna, and Jaromir Savelka. It Cannot Be Right If It Was Written by AI: On Lawyers' Preferences of Documents Perceived as Authored by an LLM vs a Human. _ArXiV_, 2024, available at https://www.arxiv.org/abs/2407.06798
+[preprint] Jakub Harasta, Tereza Novotna, and Jaromir Savelka. It Cannot Be Right If It Was Written by AI: On Lawyers' Preferences of Documents Perceived as Authored by an LLM vs a Human. _ArXiV_, 2024, available at https://www.arxiv.org/abs/2407.06798
+
+[early access] Jakub Harasta, Tereza Novotna, and Jaromir Savelka. It Cannot Be Right If It Was Written by AI: On Lawyers' Preferences of Documents Perceived as Authored by an LLM vs a Human. _Artificial Intelligence and Law_, 2024, available at https://dx.doi.org/10.1007/s10506-024-09422-w
 
 ## Outline
 
@@ -22,7 +24,7 @@ We asked the participants to evaluate the language quality and correctness of th
 
 We kindly ask you to cite the following paper in your work using the data (documents, survey):
 
-Jakub Harasta, Tereza Novotna, and Jaromir Savelka. It Cannot Be Right If It Was Written by AI: On Lawyers' Preferences of Documents Perceived as Authored by an LLM vs a Human. _ArXiV_, 2024, available at https://www.arxiv.org/abs/2407.06798
+Jakub Harasta, Tereza Novotna, and Jaromir Savelka. It Cannot Be Right If It Was Written by AI: On Lawyers' Preferences of Documents Perceived as Authored by an LLM vs a Human. _Artificial Intelligence and Law_, 2024, available at https://dx.doi.org/10.1007/s10506-024-09422-w
 
 ## Acknowledgement
 
